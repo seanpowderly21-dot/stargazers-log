@@ -1,0 +1,20 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "Open-source curriculum and community for learning to code.",
+    "starredAt": "2025-01-12"
+  },
+  {
+    "name": "The Algorithms",
+    "url": "https://github.com/TheAlgorithms",
+    "description": "Algorithms and data structures implemented in many programming languages.",
+    "starredAt": "2025-02-08"
+  },
+  {
+    "name": "Explainshell",
+    "url": "https://github.com/idank/explainshell",
+    "description": "Match command-line arguments to their help text.",
+    "starredAt": "2025-03-19"
+  }
+]
